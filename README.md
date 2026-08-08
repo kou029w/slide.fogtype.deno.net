@@ -11,7 +11,7 @@ original by tani
 ---
 
 ## Introduction
-- **slides.deno.dev** is a simple slide generation service built with Deno.
+- **slide.fogtype.deno.net** is a simple slide generation service built with Deno.
 - It converts slide decks written in Markdown into HTML and displays them in the browser.
 
 ---
@@ -44,7 +44,7 @@ original by tani
 ---
 
 ## Summary
-- **slides.deno.dev** is a tool that simply generates slides from Markdown.
+- **slide.fogtype.deno.net** is a tool that simply generates slides from Markdown.
 - It leverages Deno, Hono, and Marp, allowing users to easily create and share slides.
 
 ---
