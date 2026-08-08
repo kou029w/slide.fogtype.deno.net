@@ -4,9 +4,9 @@ theme: default
 class: lead
 ---
 
-# slides.deno.dev
+# slide.fogtype.deno.net
 ### A Marp Slide Viewer App  
-by tani
+original by tani
 
 ---
 
